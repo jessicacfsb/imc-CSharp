@@ -1,0 +1,14 @@
+C:\Users\six\Desktop\exercicio imc\imc\imc\bin\Debug\netcoreapp3.1\imc.exe
+C:\Users\six\Desktop\exercicio imc\imc\imc\bin\Debug\netcoreapp3.1\imc.deps.json
+C:\Users\six\Desktop\exercicio imc\imc\imc\bin\Debug\netcoreapp3.1\imc.runtimeconfig.json
+C:\Users\six\Desktop\exercicio imc\imc\imc\bin\Debug\netcoreapp3.1\imc.runtimeconfig.dev.json
+C:\Users\six\Desktop\exercicio imc\imc\imc\bin\Debug\netcoreapp3.1\imc.dll
+C:\Users\six\Desktop\exercicio imc\imc\imc\bin\Debug\netcoreapp3.1\imc.pdb
+C:\Users\six\Desktop\exercicio imc\imc\imc\obj\Debug\netcoreapp3.1\imc.csproj.AssemblyReference.cache
+C:\Users\six\Desktop\exercicio imc\imc\imc\obj\Debug\netcoreapp3.1\imc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\six\Desktop\exercicio imc\imc\imc\obj\Debug\netcoreapp3.1\imc.AssemblyInfoInputs.cache
+C:\Users\six\Desktop\exercicio imc\imc\imc\obj\Debug\netcoreapp3.1\imc.AssemblyInfo.cs
+C:\Users\six\Desktop\exercicio imc\imc\imc\obj\Debug\netcoreapp3.1\imc.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\exercicio imc\imc\imc\obj\Debug\netcoreapp3.1\imc.dll
+C:\Users\six\Desktop\exercicio imc\imc\imc\obj\Debug\netcoreapp3.1\imc.pdb
+C:\Users\six\Desktop\exercicio imc\imc\imc\obj\Debug\netcoreapp3.1\imc.genruntimeconfig.cache
